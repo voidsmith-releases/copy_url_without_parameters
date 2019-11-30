@@ -20,7 +20,7 @@
   "commands": {
     "toggle-feature": {
       "suggested_key": { "default": "Ctrl+Alt+C" },
-      "description": "Adds a context menu option to copy a URL while removing all parameters"
+      "description": "Copies URL of current tab while removing all parameters"
     }
   }
 }
