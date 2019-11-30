@@ -79,7 +79,7 @@
 
     function strip_parameters(par_url)
     {
-        return par_url.replace(/^([^\?]+)(?:\?.*)?/, "$1").replace(/^(?=([^\?]+\/)[^\-\._~—]+)/, "")
+        return par_url.replace(/^([^\?#]+)(?:[\?#].*)?/, "$1").replace(/^(?=([^\?]+\/)[^\-\._~—]+)/, "")
 
     }
 
