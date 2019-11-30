@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Copy URL without Parameters",
+    "name": "Copy URL Without Parameters",
     "description": "Adds a context menu option to copy a URL while removing all parameters",
     "version": "1.0",
     "homepage_url": "https://github.com/voidsmith-releases/firefox_addons/tree/master/copy_url_without_parameters",
@@ -12,7 +12,6 @@
     },
 
     "permissions": [
-        "<all_urls>",
         "activeTab",
         "contextMenus",
         "clipboardWrite"
