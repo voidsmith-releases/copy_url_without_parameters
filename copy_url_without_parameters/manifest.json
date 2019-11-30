@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "Copy URL without Parameters",
+    "description": "Adds a context menu option to copy a URL while removing all parameters",
+    "version": "1.0",
+    "homepage_url": "https://github.com/voidsmith-releases/tree/master/copy-url-without-parameters",
+
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+
+    "permissions": [
+        "<all_urls>",
+        "activeTab",
+        "contextMenus",
+        "clipboardWrite"
+    ],    
+
+  "commands": {
+    "toggle-feature": {
+      "suggested_key": { "default": "Ctrl+Alt+C" },
+      "description": "Adds a context menu option to copy a URL while removing all parameters"
+    }
+  }
+}
