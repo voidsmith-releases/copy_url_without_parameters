@@ -1,4 +1,5 @@
 <h1>Remove URL Parameters</h1>
+<h2>URL:</h2> <p>https://addons.mozilla.org/en-US/firefox/addon/remove-url-parameters/</p>
 <h2>Description:</h2>
 <p>Adds a context menu option and hotkey shortcut to copy a URL while removing all parameters</p>
 <h2>Usage:</h2>
