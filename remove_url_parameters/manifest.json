@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Remove URL Parameters",
     "description": "Grants ability to easily remove URL parameters when copying a URL or opening it in a new tab",
-    "version": "1.0",
+    "version": "1.0.2",
     "homepage_url": "https://github.com/voidsmith-releases/firefox_addons/tree/master/remove_url_parameters",
 
     "icons": {
