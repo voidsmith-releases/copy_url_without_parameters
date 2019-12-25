@@ -1,6 +1,6 @@
 // Author: voidsmith79
 // Purpose: Adds context menu options and hotkey shortcut to copy a URL while removing all parameters
-// Version: 1.0.0
+// Version: 1.0.2
 
 (function()
 {
